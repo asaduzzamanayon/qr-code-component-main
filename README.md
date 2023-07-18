@@ -16,13 +16,13 @@ This is a solution to the starter challenge of Frontend Mentor.
 
 ### Screenshot
 
-![Desktop Design](design\desktop_design.png)
-![Mobile Design](design\mobile_design.png)
+![Desktop Design](https://github.com/asaduzzamanayon/qr-code-component-main/blob/mobile-design-done/design/desktop_design.png?raw=true)
+![Mobile Design](https://github.com/asaduzzamanayon/qr-code-component-main/blob/mobile-design-done/design/mobile_design.png?raw=true)
 
 ### Links
 
 - Solution URL: (https://github.com/asaduzzamanayon/qr-code-component-main)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://asaduzzamanayon.github.io/qr-code-component-main/)
 
 ## My process
 
