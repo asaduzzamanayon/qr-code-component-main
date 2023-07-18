@@ -1,3 +1,10 @@
+:root {
+  --main-bg-color: hsl(212, 45%, 89%);
+  --card-bg-color: white;
+  --heading-color: hsl(218, 44%, 22%);
+  --paragraph-color: hsl(220, 15%, 55%);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +17,7 @@ img {
 }
 
 .main {
-  background-color: hsl(212, 45%, 89%);
+  background-color: var(--main-bg-color);
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -26,7 +33,7 @@ img {
   align-items: center;
   width: 350px;
   height: 560px;
-  background-color: white;
+  background-color: var(--card-bg-color);
   text-align: center;
 }
 
@@ -38,7 +45,7 @@ h3 {
   font-family: "outfit", sans-serif;
   font-weight: 800;
   font-size: 24px;
-  color: hsl(218, 44%, 22%);
+  color: var(--heading-color);
   /* margin-bottom: 10px; */
 }
 
@@ -46,6 +53,6 @@ p {
   padding-top: 20px;
   font-family: "outfit", sans-serif;
   font-weight: 400;
-  color: hsl(220, 15%, 55%);
+  color: var(--paragraph-color);
   font-size: 17.9px;
 }
